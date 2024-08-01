@@ -9,7 +9,7 @@ This project was created for our Computer Organization and Architecture Laborato
 - `pokemon_battle_sim.asm`: Main program file containing the function definition.
 - `effectiveness_data.asm`: Data file containing type effectiveness relationships.
 - `macros.asm`: Macros used in the project for convenience.
-- `pokemon_data.asm`: Data file containing information for Pokémons up to Generation IV.
+- `pokemon_data.asm`: Data file containing information for Pokémons in Generation I.
 
 ## How It Works
 
