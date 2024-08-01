@@ -17,12 +17,12 @@ Given two Pokémon numbers, the program retrieves their types and calculates the
 
 ### Example
 
-Given two Pokémon numbers, say #3 (Venusaur) and #6 (Charizard):
+Given two Pokémon numbers, say #1 (Bulbasaur) and #4 (Charmander):
 
-- Venusaur's types: Grass, Poison
-- Charizard's types: Fire, Flying
+- Bulbasaur's types: Grass, Poison
+- Charmander's types: Fire, Fire (filler)
 
-The program calculates the effectiveness of Grass and Poison against Fire and Flying, averages the scores, and determines the winner.
+The program calculates the effectiveness of Grass and Poison against Fire, averages the scores, and determines the winner.
 
 ### Input
 
