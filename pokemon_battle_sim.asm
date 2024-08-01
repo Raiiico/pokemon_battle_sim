@@ -43,7 +43,7 @@ main:
         GET_DEC(s1)        				# Store Pokémon 2
         blt s0, t1, errI
         blt s1, t1, errI
-        li t1, 100					# Load 100 in t1 for conditional comparison
+        li t1, 493					# Load the no. of the last pokemon in t1 for conditional comparison
         bgt s0, t1, errR
         bgt s1, t1, errR
         j load_types  			    
